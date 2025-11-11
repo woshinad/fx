@@ -65,7 +65,7 @@
     // 设置按钮点击事件
     jumpButton.addEventListener('click', function () {
       // 在这里替换为你想要跳转的网址
-      var url = 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Zemzg_FFYZ2VMshr7sBx0gyVoQ-UXTPf&authKey=%2B94B7XLVEcmyr33YbsvnJNkGQZeG5O5r8Y37BYavfmyNRuDSI%2BCMHrFNGeJrUto4&noverify=0&group_code=870056818';
+      var url = 'https://fp.ps.netease.com/cg-image/file/6911d29df56d5413bb4998a9sodMP5Cx06';
 
       // 跳转到指定网址
       window.location.href = url;
